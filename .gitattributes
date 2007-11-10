@@ -21,6 +21,11 @@ extras/fore2gmn.pl -text
 /install-sh -text
 /ltmain.sh -text
 /missing -text
+python/Makefile.am -text
+python/Makefile.in -text
+python/garmintools/__init__.py -text
+python/pygarmin.c -text
+python/setup.py -text
 src/Makefile.am -text
 src/Makefile.in -text
 src/byte_util.c -text
