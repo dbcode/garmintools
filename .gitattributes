@@ -15,6 +15,14 @@
 /configure -text
 /configure.ac -text
 /depcomp -text
+doc/Makefile.am -text
+doc/Makefile.in -text
+doc/man/Makefile.am -text
+doc/man/Makefile.in -text
+doc/man/garmin_dump.1 -text
+doc/man/garmin_get_info.1 -text
+doc/man/garmin_gmap.1 -text
+doc/man/garmin_save_runs.1 -text
 extras/Makefile.am -text
 extras/Makefile.in -text
 extras/fore2gmn.pl -text
