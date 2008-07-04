@@ -22,6 +22,7 @@ doc/man/Makefile.in -text
 doc/man/garmin_dump.1 -text
 doc/man/garmin_get_info.1 -text
 doc/man/garmin_gmap.1 -text
+doc/man/garmin_gpx.1 -text
 doc/man/garmin_save_runs.1 -text
 extras/Makefile.am -text
 extras/Makefile.in -text
@@ -43,8 +44,10 @@ src/config.h.in -text
 src/datatype.c -text
 src/garmin.h -text
 src/garmin_dump.c -text
+src/garmin_gchart.c -text
 src/garmin_get_info.c -text
 src/garmin_gmap.c -text
+src/garmin_gpx.c -text
 src/garmin_save_runs.c -text
 src/pack.c -text
 src/packet_id.c -text
