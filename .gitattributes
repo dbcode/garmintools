@@ -30,6 +30,7 @@ extras/fore2gmn.pl -text
 /install-sh -text
 /ltmain.sh -text
 /missing -text
+/mkinstalldirs -text
 python/Makefile.am -text
 python/Makefile.in -text
 python/garmintools/__init__.py -text
